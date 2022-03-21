@@ -1,0 +1,9 @@
+name: ChestShop
+authors: [Crafter75, Luca]
+version: 1.0.0
+main: ch.luca.hydroslide.chestshop.ChestShop
+api-version: 1.18
+depends: [HydroGame, CubePerms, ProtocolLib, CoinsAPI]
+commands:
+  chestshop:
+  adminshop:
